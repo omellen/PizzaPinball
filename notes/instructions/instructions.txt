@@ -1,0 +1,3 @@
+Try and match the customer order on the right by constructing an identical pizza.
+Use the pinball to collect ingredients for your pizza.
+When you're all done, let the ball fall through the flippers to end the game and recieve your score.
